@@ -1,0 +1,1 @@
+CREATE TABLE Alien(id int PRIMARY KEY,name VARCHAR(20),tech VARCHAR(15));
